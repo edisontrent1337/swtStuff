@@ -1,0 +1,603 @@
+2014-11-10 01:05:31.503+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:05:31.526+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:05:31.584+0000 INFO  [o.n.k.i.n.s.StoreFactory]: Creating new db @ target\temp.db\neostore
+2014-11-10 01:05:32.812+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:32.813+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:32.840+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:32.986+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:33.353+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:33.354+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:33.382+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:33.494+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:33.951+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:33.952+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:33.952+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:33.952+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:33.952+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:05:33.953+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:33.953+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:33.954+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:05:33.955+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:05:33.957+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:05:33.957+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:05:33.959+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:05:33.959+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:05:33.961+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:05:33.961+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:33.991+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.120+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.244+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.369+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.508+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.620+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.753+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.870+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:34.994+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:35.111+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:35.244+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:35.354+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:35.503+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:35.666+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:35.849+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore hit=0 miss=8 switches=0 ooe=0
+2014-11-10 01:05:35.988+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:35.989+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:35.989+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:35.989+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:35.990+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:05:35.990+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:05:35.991+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:05:35.991+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:05:35.991+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:05:35.991+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:05:35.992+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:05:35.992+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:05:35.992+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:05:35.993+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:05:35.993+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:05:36.048+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2014-11-10 01:05:36.066+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: No lucene scan store index found, this might just be first use. Preparing to rebuild.
+2014-11-10 01:05:36.130+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=0, lastTxId=1 (clean)
+2014-11-10 01:05:36.168+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Rebuilding lucene scan store, this may take a while
+2014-11-10 01:05:36.169+0000 INFO  [o.n.k.a.i.i.LuceneLabelScanStore]: Lucene scan store rebuilt (roughly -1 nodes)
+2014-11-10 01:05:36.171+0000 INFO  [o.n.k.i.t.TxManager]: TM new log: tm_tx_log.1
+2014-11-10 01:05:36.218+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:05:36.228+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=0, lastTxId=1 (clean)
+2014-11-10 01:05:36.272+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:05:36.274+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:05:36.275+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:05:36.276+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:05:36.276+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:05:36.276+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:05:36.276+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:05:36.276+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:05:36.276+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:05:36.296+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:05:36.336+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:05:36.335+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:05:38.076+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Shutdown started
+2014-11-10 01:05:38.076+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now unavailable
+2014-11-10 01:05:38.076+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor stopped. 
+2014-11-10 01:05:38.143+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log target\temp.db\index\lucene.log
+2014-11-10 01:05:38.184+0000 INFO  [o.n.k.i.t.TxManager]: TM shutting down
+2014-11-10 01:05:38.426+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Closed log target\temp.db\nioneo_logical.log
+2014-11-10 01:05:38.487+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshiptypestore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:38.595+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshiptypestore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:38.704+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.labeltokenstore.db.names hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:38.870+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.labeltokenstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.021+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.strings hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.146+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.index.keys hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.254+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.index hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.412+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db.arrays hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.521+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.propertystore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.629+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshipstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.738+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.nodestore.db.labels hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:39.929+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.nodestore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:40.046+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.schemastore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:40.184+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore.relationshipgroupstore.db hit=0 miss=0 switches=0 ooe=0
+2014-11-10 01:05:40.354+0000 INFO  [o.n.k.i.n.s.StoreFactory]: target\temp.db\neostore hit=0 miss=14 switches=0 ooe=0
+2014-11-10 01:05:40.460+0000 INFO  [o.n.k.i.n.x.NeoStoreXaDataSource]: NeoStore closed
+2014-11-10 01:05:40.460+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics START ---
+2014-11-10 01:05:40.460+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STOPPING diagnostics END ---
+2014-11-10 01:29:11.535+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:29:11.550+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:29:11.613+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:29:11.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:29:11.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:29:11.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:29:11.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:29:11.759+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=1 (clean)
+2014-11-10 01:29:11.795+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:29:11.799+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:29:11.800+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=2 (clean)
+2014-11-10 01:29:11.847+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:29:11.862+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:29:11.878+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:29:11.909+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:29:11.909+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:31:18.025+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:31:18.041+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:31:18.088+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:31:18.103+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:31:18.119+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:31:18.260+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:31:18.260+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:31:18.260+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:31:18.260+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:31:18.260+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:31:18.260+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:31:19.911+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:31:19.911+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:31:19.911+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:31:19.911+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:31:19.927+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:31:19.942+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:31:19.989+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:31:19.989+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:32:16.231+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:32:16.247+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:32:16.309+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:32:16.325+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:32:16.450+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:32:16.450+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:32:16.466+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:32:16.466+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:32:16.466+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:32:16.466+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:32:18.122+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:32:18.122+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:32:18.138+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:32:18.153+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:32:18.169+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:32:18.200+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:32:18.200+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:33:55.499+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:33:55.531+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:33:55.577+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:33:55.593+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:33:55.718+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:33:55.718+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:33:55.718+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:33:55.718+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:33:55.718+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:33:55.718+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:33:57.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:33:57.405+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:33:57.420+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:33:57.452+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:33:57.452+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:36:14.693+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:36:14.708+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:36:14.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:36:14.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:36:14.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:36:14.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:36:14.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:36:14.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:36:14.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:36:14.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:36:14.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:36:14.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:36:14.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:36:14.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:36:14.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:36:16.568+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:36:16.568+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:36:16.568+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:36:16.568+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:36:16.583+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:36:16.599+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:36:16.615+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:36:16.646+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:36:16.646+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:38:30.183+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:38:30.198+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:38:30.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:38:30.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:38:30.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:38:30.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:38:30.245+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:38:30.261+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:38:30.370+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:38:30.370+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:38:30.386+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:38:30.386+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:38:30.386+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:38:30.386+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:38:32.072+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:38:32.072+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:38:32.088+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:38:32.103+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:38:32.119+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:38:32.150+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:38:32.166+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:44:34.672+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:44:34.688+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:44:34.751+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:44:34.766+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:44:34.876+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:44:34.876+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:44:34.876+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:44:34.876+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:44:34.876+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:44:34.891+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:44:36.507+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:44:36.507+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:44:36.507+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:44:36.522+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:44:36.540+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:44:36.541+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:44:36.542+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:44:36.542+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:44:36.542+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:44:36.542+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:44:36.542+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:44:36.542+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:44:36.552+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:44:36.584+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:44:36.584+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:48:09.186+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:48:09.202+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:48:09.264+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:48:09.280+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:48:09.280+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:48:09.280+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:48:09.280+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:48:09.280+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:48:09.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:48:09.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:48:09.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:48:09.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:48:09.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:48:09.389+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:48:13.432+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:48:13.432+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:48:13.432+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:48:13.432+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:48:13.447+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:48:13.463+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:48:13.478+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:48:13.510+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:48:13.510+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:54:40.534+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:54:40.565+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:54:40.628+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:54:40.643+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:54:40.643+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:54:40.643+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:54:40.768+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:54:40.768+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:54:40.768+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:54:40.768+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:54:40.768+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:54:40.768+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:54:44.779+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:54:44.779+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:54:44.779+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:54:44.779+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:54:44.794+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:54:44.810+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:54:44.841+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:54:44.841+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:55:54.677+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:55:54.708+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:55:54.755+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:55:54.771+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:55:54.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:55:54.896+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:55:54.912+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:55:54.912+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:55:54.912+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:55:54.912+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:55:59.303+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:55:59.303+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:55:59.319+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:55:59.334+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:55:59.350+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:55:59.381+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:55:59.381+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
+2014-11-10 01:58:03.014+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics START ---
+2014-11-10 01:58:03.030+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- INITIALIZED diagnostics END ---
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshiptypestore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db.names] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.labeltokenstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.strings] brickCount=0 brickSize=98560b mappedMem=98566144b (storeSize=128b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index.keys] brickCount=0 brickSize=0b mappedMem=0b (storeSize=38b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.index] brickCount=0 brickSize=0b mappedMem=0b (storeSize=0b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db.arrays] brickCount=0 brickSize=111104b mappedMem=111149056b (storeSize=128b)
+2014-11-10 01:58:03.092+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.propertystore.db] brickCount=0 brickSize=1153412b mappedMem=115343360b (storeSize=0b)
+2014-11-10 01:58:03.108+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipstore.db] brickCount=0 brickSize=1415556b mappedMem=141557760b (storeSize=0b)
+2014-11-10 01:58:03.108+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db.labels] brickCount=0 brickSize=0b mappedMem=0b (storeSize=68b)
+2014-11-10 01:58:03.108+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.nodestore.db] brickCount=0 brickSize=314565b mappedMem=31457280b (storeSize=0b)
+2014-11-10 01:58:03.108+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.schemastore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=64b)
+2014-11-10 01:58:03.108+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore.relationshipgroupstore.db] brickCount=0 brickSize=0b mappedMem=0b (storeSize=25b)
+2014-11-10 01:58:03.108+0000 INFO  [o.n.k.i.n.s.StoreFactory]: [target\temp.db\neostore] brickCount=0 brickSize=0b mappedMem=0b (storeSize=63b)
+2014-11-10 01:58:03.233+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\nioneo_logical.log.1]. Recovery started ...
+2014-11-10 01:58:03.233+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] logVersion=1 with committed tx=1
+2014-11-10 01:58:03.233+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\nioneo_logical.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:58:03.233+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\nioneo_logical.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:58:03.233+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] sorting 0 xids
+2014-11-10 01:58:03.233+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] checkRecoveryComplete 0 xids
+2014-11-10 01:58:07.450+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[nioneo_logical.log] recovery completed.
+2014-11-10 01:58:07.450+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\nioneo_logical.log.1] completed.
+2014-11-10 01:58:07.450+0000 INFO  [o.n.k.i.t.TxManager]: TM opening log: target\temp.db\tm_tx_log.1
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.KernelHealth]: Kernel health set to OK
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Non clean shutdown detected on log [target\temp.db\index\lucene.log.1]. Recovery started ...
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] logVersion=1 with committed tx=2
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: [target\temp.db\index\lucene.log.1] entries found=0 lastEntryPos=16
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Opened logical log [target\temp.db\index\lucene.log.1] version=1, lastTxId=-1 (recovered)
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] sorting 0 xids
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] checkRecoveryComplete 0 xids
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: XaResourceManager[lucene.log] recovery completed.
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.t.x.XaLogicalLog]: Recovery on log [target\temp.db\index\lucene.log.1] completed.
+2014-11-10 01:58:07.465+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions START ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:Versions END ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS START ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_VERSIONS END ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE START ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for NEO_STORE_ID_USAGE END ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS START ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for PERSISTENCE_WINDOW_POOL_STATS END ---
+2014-11-10 01:58:07.481+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles START ---
+2014-11-10 01:58:07.496+0000 INFO  [o.n.k.i.DiagnosticsManager]: --- STARTED diagnostics for KernelDiagnostics:StoreFiles END ---
+2014-11-10 01:58:07.528+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: GC Monitor started. 
+2014-11-10 01:58:07.528+0000 INFO  [o.n.k.EmbeddedGraphDatabase]: Database is now ready
